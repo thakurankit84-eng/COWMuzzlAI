@@ -1,0 +1,10 @@
+{
+  "name": "AI-Based Cow Muzzle Identification",
+  "description": "AI-Based Cow Muzzle Identification with YOLOv8 Biometric Ridge Detection, ResNet-50 feature extraction, FAISS 128-D vector embeddings, and cosine similarity matching.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
